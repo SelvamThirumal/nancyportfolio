@@ -37,7 +37,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-8 py-5">
         {/* Logo */}
         <h1 className="text-3xl font-bold text-cyan-400 tracking-wide cursor-pointer">
-          Nancy<span className="text-white">.</span>
+          Nancy<span className="text-white">.S</span>
         </h1>
 
         {/* Desktop Menu */}
